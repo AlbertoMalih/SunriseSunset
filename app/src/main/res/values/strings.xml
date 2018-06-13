@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="title_activity_current_city">SunriseSunset</string>
+    <string name="title_activity_all_cities">AllCitiesActivity</string>
+    <string name="choose_city">выбрать город</string>
+    <string name="sunset">закат</string>
+    <string name="sunrise">восход</string>
+    <string name="failLoadCoordinates">Ошибка получения координат</string>
+    <string name="failLoadInfo">е удалось загрузить информацию по координатам</string>
+    <string name="permissions_bot_found">Ты не дал разрешение на получение доступа к твоим координатам</string>
+    <string name="permissions_not_found">Разрешения не полкчины, астрономом ты не будешь</string>
+</resources>
